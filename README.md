@@ -4,6 +4,7 @@
 The purpose of this analysis is to choose an Amazon dataset amongst the list given to analyze in PySpark in Google Colab, connect to an RDS Instance to populate 
 the tables in pgAdmin and the use of pandas, to do additional analysis using the vine_table exported dataset, which was exported from pgAdmin. 
 
+in ref to Mod 4 for df.loc 
 ## Results: 
 1. How many Vine reviews and non-Vine reviews were there? 
 662 for Yes
