@@ -8,7 +8,7 @@ the tables in pgAdmin and the use of pandas, to do additional analysis using the
 1. How many Vine reviews and non-Vine reviews were there? 
 662 for Yes
 ![image](https://user-images.githubusercontent.com/116187123/226488621-75f7c235-e0f0-4ecc-8721-7e0ddcad9467.png)
-2534418 for No
+253418 for No
 ![image](https://user-images.githubusercontent.com/116187123/226488659-c8fd5d9e-8b65-43e9-800a-ab44fbce902f.png)
 
 2. How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
